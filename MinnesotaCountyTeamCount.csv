@@ -1,64 +1,63 @@
-County,FIPS,Total
-Hennepin,27053,30
-Ramsey,27123,20
-Scott,27139,4
-Dakota,27037,10
-Anoka,27003,7
-Crow Wing,27035,3
-Washington,27163,5
-McLeod,27085,1
-St. Louis,27137,10
-Lyon,27083,2
-Olmsted,27109,2
-Carver,27019,6
-Stevens,27149,1
-Roseau,27135,3
-Martin,27091,2
-Wabasha,27157,1
-Freeborn,27047,1
-Houston,27055,3
-Nicollet,27103,1
-Sherburne,27141,3
-Wright,27171,7
-Chisago,27025,1
-Winona,27169,1
-Hubbard,27057,1
-Brown,27015,1
-Cass,27021,5
-Chippewa,27023,1
-Lake,27075,2
-Kandiyohi,27067,2
-Pennington,27113,1
-Becker,27005,3
-Otter Tail,27111,2
-Pipestone,27117,1
-Big Stone,27011,1
-Douglas,27041,1
-Rice,27131,2
-Fillmore,27045,1
-Benton,27009,1
-Goodhue,27049,4
-Meeker,27093,2
-Nobles,27105,1
-Kanabec,27065,1
-Renville,27129,2
-Beltrami,27007,4
-Stearns,27145,5
-Faribault,27043,1
-Clay,27027,1
-Morrison,27097,3
-Steele,27147,1
-Wadena,27159,1
-Redwood,27127,1
-Itasca,27061,2
-Isanti,27059,1
-Lac qui Parle,27073,2
-Marshall,27089,1
-Carlton,27017,5
-Pine,27115,1
-Swift,27151,1
-Dodge,27039,1
-Blue Earth,27013,1
-Rock,27133,1
-Grant,27051,2
-Grant,27051,
+County,FIPS,Total,Range
+Hennepin,27053,30,30+
+Ramsey,27123,20,20-29
+Scott,27139,4,4-5
+Dakota,27037,10,6-10
+Anoka,27003,7,6-10
+Crow Wing,27035,3,2-3
+Washington,27163,5,4-5
+McLeod,27085,1,1
+St. Louis,27137,10,6-10
+Lyon,27083,2,2-3
+Olmsted,27109,2,2-3
+Carver,27019,6,6-10
+Stevens,27149,1,1
+Roseau,27135,3,2-3
+Martin,27091,2,2-3
+Wabasha,27157,1,1
+Freeborn,27047,1,1
+Houston,27055,3,2-3
+Nicollet,27103,1,1
+Sherburne,27141,3,2-3
+Wright,27171,7,6-10
+Chisago,27025,1,1
+Winona,27169,1,1
+Hubbard,27057,1,1
+Brown,27015,1,1
+Cass,27021,5,4-5
+Chippewa,27023,1,1
+Lake,27075,2,2-3
+Kandiyohi,27067,2,2-3
+Pennington,27113,1,1
+Becker,27005,3,2-3
+Otter Tail,27111,2,2-3
+Pipestone,27117,1,1
+Big Stone,27011,1,1
+Douglas,27041,1,1
+Rice,27131,2,2-3
+Fillmore,27045,1,1
+Benton,27009,1,1
+Goodhue,27049,4,4-5
+Meeker,27093,2,2-3
+Nobles,27105,1,1
+Kanabec,27065,1,1
+Renville,27129,2,2-3
+Beltrami,27007,4,4-5
+Stearns,27145,5,4-5
+Faribault,27043,1,1
+Clay,27027,1,1
+Morrison,27097,3,2-3
+Steele,27147,1,1
+Wadena,27159,1,1
+Redwood,27127,1,1
+Itasca,27061,2,2-3
+Isanti,27059,1,1
+Lac qui Parle,27073,2,2-3
+Marshall,27089,1,1
+Carlton,27017,5,4-5
+Pine,27115,1,1
+Swift,27151,1,1
+Dodge,27039,1,1
+Blue Earth,27013,1,1
+Rock,27133,1,1
+Grant,27051,2,2-3
